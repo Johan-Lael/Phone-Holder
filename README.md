@@ -19,18 +19,25 @@ The issues was to attempt the project and acquired knowledge from it.
 So far as we went, we did the following;
 
 Drawn the mock-up(phone holder) and realize it using the 3D printer in the FABLAB.  « MEC »
+
 Done the electrical connection of the phone holder. « EEE »
+
 Wrote a code (or program) to control the stepper motor using a joystick in the IDE Arduino.  « MIA ».
 
                             C.  DOMAINS
 
 MEO: Our project plan was design to start by the Structure in order to place the circuit and then implement the code.
+
 MEC: Our phone holder is acts on the user for him/her to Aurelian hold his phone and adjust his angle of view without any strain using the joystick.
+
 EEM: The base of our phone holder if made out of wood and its upper part is made of ABS.
+
 EEE: The joystick and motor are implemented using a circuit connected via Arduino and power by a 9V battery.
+
 MIA: The joystick was programmed to make the motor rotate clockwise when it is shifted to the right and vice versa.
 
                             D.  FUNCTION:
 
 The phone holder  permits the user to execute free rotatory movement in the x- direction using the joystick.
+
 The z-movement is done manually by the user at the trunk level.
