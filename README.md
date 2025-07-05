@@ -9,7 +9,9 @@ AYENG OWONO Gladys-Darcell.
 
                              A.   INTRODUCTION
 The Phone Holder was imagined and designed to permit free and easier movement (rotation) of a phone.
+
 Our objective was to achieve that goal, make it possible in the simplest way it can be.
+
 The issues was to attempt the project and acquired knowledge from it.
 
                             B.  CONCEPTION
